@@ -1,0 +1,11 @@
+h1{
+    color:aqua;
+}
+.header {
+    border:solid;
+    background-color: beige;
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+    
+}
